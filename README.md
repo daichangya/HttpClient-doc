@@ -5,7 +5,7 @@
 
 [https://zthinker.com/](https://zthinker.com/)
 
-中文文档网址：https://daichangya.github.io/everything-curl/#/
+中文文档网址：https://daichangya.github.io/HttpClient-doc/#/
 
 # HttpClient-Tutorial-Chinese
 HttpClient Tutorial 中文翻译版(基于4.5.2)
